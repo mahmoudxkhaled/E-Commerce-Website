@@ -1,4 +1,4 @@
-# E-Commerce Web Application (ITI Graduation Project) 
+# E-Commerce Web Application (ITI Graduation Project) 
 
 Welcome to the E-Commerce Web Application repository! This project is the result of the ITI Graduation Project, showcasing a robust e-commerce platform built with .NET Web API and Angular. The application provides a seamless online shopping experience with various features.
 
