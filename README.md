@@ -2,7 +2,7 @@
 
 Welcome to the E-Commerce Web Application repository! This project is the result of the ITI Graduation Project, showcasing a robust e-commerce platform built with .NET Web API and Angular. The application provides a seamless online shopping experience with various features.
 
-## Features
+## 🚀 Features
 
 - **User Authentication and Authorization:** Secure user accounts and control access to different parts of the application.
   
@@ -20,7 +20,7 @@ Welcome to the E-Commerce Web Application repository! This project is the result
 
 - **Admin Dashboard:** Perform CRUD operations for users, products, add sub-categories, and confirm deliveries.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **.NET Core Web API:** Backend framework for building robust APIs.
 
